@@ -3,7 +3,7 @@
 This project was made with React and Firebase.
 React hooks (useEffect and useState)
 <br>
-<h2> ahref="https://instagram-clone-vinrata-96143.web.app/"</h2><br>
+<h2> <p ahref="https://instagram-clone-vinrata-96143.web.app/" /></h2><br>
 <img src="reactlogo.png" />
 <img src="firebaselogo.png" /><br>
 
