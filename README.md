@@ -3,7 +3,8 @@
 This project was made with React and Firebase.
 React hooks (useEffect and useState)
 <br>
-<p  style="color:green;"href="https://instagram-clone-vinrata-96143.web.app/">LIVE SITE </p>
+<a style="color:green;" href="(https://instagram-clone-vinrata-96143.web.app/)">LIVE SITE </a>
+
 <h2> </h2><br>
 <img src="reactlogo.png" />
 <img src="firebaselogo.png" /><br>
