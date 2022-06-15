@@ -4,7 +4,7 @@ This project was made with React and Firebase.
 React hooks (useEffect and useState)
 <br>
 <a style="color:green;" href="(https://instagram-clone-vinrata-96143.web.app/)">LIVE SITE </a>
-
+<a href="https://www.w3schools.com">Visit W3Schools</a>
 <h2> </h2><br>
 <img src="reactlogo.png" />
 <img src="firebaselogo.png" /><br>
